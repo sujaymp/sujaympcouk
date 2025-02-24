@@ -6,19 +6,8 @@ export default function Home() {
     <main className="min-h-screen bg-gradient-to-br from-gray-900 via-blue-900 to-gray-900 text-white animate-gradient bg-[length:200%_200%]">
       {/* Hero Section */}
       <section className="container mx-auto px-4 py-20 relative">
-        <div className="absolute inset-0 bg-[url('/grid.svg')] bg-center [mask-image:linear-gradient(180deg,white,rgba(255,255,255,0))]"></div>
         <div className="relative flex flex-col items-center text-center">
-          <div className="relative">
-            <div className="absolute -inset-1 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full blur opacity-75"></div>
-            <Image
-              src="/sujay-profile.jpg"
-              alt="Sujay M P"
-              width={180}
-              height={180}
-              className="relative rounded-full border-4 border-white/10 shadow-2xl"
-            />
-          </div>
-          <h1 className="text-5xl font-bold mb-4 mt-8 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-400">
+          <h1 className="text-5xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-400">
             Sujay M P
           </h1>
           <p className="text-xl text-gray-300 mb-8">Solutions Architect</p>
