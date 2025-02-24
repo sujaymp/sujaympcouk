@@ -44,7 +44,7 @@ export default function Home() {
         <h2 className="text-3xl font-bold mb-8 text-center">About Me</h2>
         <div className="max-w-2xl mx-auto text-gray-300">
           <p className="mb-4">
-            I'm a seasoned Solutions Architect with a proven track record in designing and implementing 
+            I&apos;m a seasoned Solutions Architect with a proven track record in designing and implementing 
             scalable, resilient enterprise solutions. With extensive experience in cloud architecture 
             and distributed systems, I specialize in transforming complex business requirements into 
             efficient technical solutions.
@@ -55,7 +55,7 @@ export default function Home() {
             between business objectives and technical implementation.
           </p>
           <p>
-            I'm passionate about leveraging cutting-edge technologies to solve complex business challenges 
+            I&apos;m passionate about leveraging cutting-edge technologies to solve complex business challenges 
             while ensuring best practices in security, performance, and scalability.
           </p>
         </div>
