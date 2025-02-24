@@ -21,7 +21,7 @@ export default function Home() {
           <h1 className="text-5xl font-bold mb-4 mt-8 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-400">
             Sujay M P
           </h1>
-          <p className="text-xl text-gray-300 mb-8">Solutions Architect & Technology Leader</p>
+          <p className="text-xl text-gray-300 mb-8">Solutions Architect</p>
           <div className="flex gap-4">
             <Link 
               href="#contact" 
